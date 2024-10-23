@@ -7,3 +7,6 @@ IN - https://www.indianamap.org/datasets/34a603870d73454982b3eae6c3b7f125/explor
 MI - https://www.arcgis.com/home/item.html?id=87b6ec7b4e4e470f957b2195df406d61
 NJ - https://hub.arcgis.com/datasets/njdep::scrap-metal-facilities-in-new-jersey/about
 WI - https://wisconsindot.gov/generalupload/web-report-dlrs-bus-mv.pdf
+CO - https://cdphe.colorado.gov/hm/gis-data
+NH - https://nh-department-of-environmental-services-open-data-nhdes.hub.arcgis.com/maps/automobile-salvage-yards
+
