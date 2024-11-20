@@ -4,4 +4,4 @@ Data linked to https://salvageyarddrone.wordpress.com/
 
 All data manually created one-by-one. 
 
-CC BY SA © 2024 Justin Meyers
+Vector data is under a CC BY SA license © 2024 Justin Meyers
