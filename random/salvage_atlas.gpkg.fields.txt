@@ -3,7 +3,7 @@ SY_NAME-Name or parcel id
 SY_BLOG-Blog URL
 SY_TYPE-Type of location
 SY_ADDR-Situs address
-SY_DATE-Date flown
+SY_DATE-Date flown (month/day/year)
 SY_PC-Picture count
 SY_BLF-Bucket list flight
 SY_NOTES-Notes
