@@ -6,4 +6,4 @@ Several salvage yards also linked to videos on youtube. An example is SY_ID = 'J
 
 All data manually created one-by-one. 
 
-Vector data is under a CC BY SA license © 2024 Justin Meyers
+Vector data is under a CC BY SA license © 2025 Justin Meyers
