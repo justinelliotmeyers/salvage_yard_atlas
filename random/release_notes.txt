@@ -68,6 +68,9 @@ count 7000
 count 7358
 SY_SCORE is null and SY_ADMIN='Wisconsin'=82
 
+4/4/2025
+count 7448
+
 
 SY_ADDR IS NOT NULL 
 SY_NAME IS NOT NULL 
