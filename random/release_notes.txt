@@ -75,3 +75,5 @@ count 7448
 SY_ADDR IS NOT NULL 
 SY_NAME IS NOT NULL 
 SY_SCORE IS NOT NULL 
+
+Wisconsin Salvage Yard List! - https://wisconsindot.gov/generalupload/web-report-sl.pdf
