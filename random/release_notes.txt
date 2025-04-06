@@ -77,3 +77,5 @@ SY_NAME IS NOT NULL
 SY_SCORE IS NOT NULL 
 
 Wisconsin Salvage Yard List! - https://wisconsindot.gov/generalupload/web-report-sl.pdf
+https://wisconsindot.gov/generalupload/web-report-dealership-owners-individuals.pdf
+https://www3.epa.gov/npdes/pubs/autotoolstable.pdf
