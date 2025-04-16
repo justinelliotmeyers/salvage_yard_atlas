@@ -85,10 +85,16 @@ SY_ADDR IS NOT NULL 1809
 SY_NAME IS NOT NULL 2070
 SY_SCORE IS NOT NULL 2931
 
+4/16/2025
+count 7608
+SY_SCORE IS NOT NULL 3102
+
 
 SY_ADDR IS NOT NULL 
 SY_NAME IS NOT NULL 
 SY_SCORE IS NOT NULL 
+
+SY_NAME IS NOT NULL AND SY_SCORE IS NULL AND SY_ADMIN='Montana'
 
 Wisconsin Salvage Yard List! - https://wisconsindot.gov/generalupload/web-report-sl.pdf
 https://wisconsindot.gov/generalupload/web-report-dealership-owners-individuals.pdf

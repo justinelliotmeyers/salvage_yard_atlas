@@ -3,6 +3,13 @@ PA - https://gis.penndot.gov/HBMS/ - tricky to find excel drop down export
 KS - open records request - KDOT.OpenRecords@ks.gov - took about a week to get
 MT - https://discover-mtdeq.hub.arcgis.com/maps/b0ed58b2021346cc82c37c36f54c5cc4/about
 TX - https://www.arcgis.com/home/item.html?id=33d31287b9744d8c9dd686252de2aa65
+TX - https://www.tdlr.texas.gov/LicenseSearch/licfile.asp >>>>> 
+All Tow Truck Operators (4.21 Mb)
+Tow Truck Operators - IM (2.63 Mb)
+Tow Truck Operators - PP (82.25 Kb)
+Tow Truck Operators - CT (1.50 Mb)
+
+Used Auto Parts Recycler (0.21 Mb)
 IN - https://www.indianamap.org/datasets/34a603870d73454982b3eae6c3b7f125/explore (https://gisdata.in.gov/server/rest/services/Hosted/Auto_Salvage/FeatureServer/)
 MI - https://www.arcgis.com/home/item.html?id=87b6ec7b4e4e470f957b2195df406d61
 NJ - https://hub.arcgis.com/datasets/njdep::scrap-metal-facilities-in-new-jersey/about
