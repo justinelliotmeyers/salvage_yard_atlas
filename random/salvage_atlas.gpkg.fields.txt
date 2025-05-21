@@ -3,7 +3,6 @@ SY_NAME-Name or parcel id
 SY_BLOG-Blog URL
 SY_TYPE-Type of location
 SY_ADDR-Situs address
-SY_DATE-Date flown (month/day/year)
 SY_PC-Picture count
 SY_BLF-Bucket list flight
 SY_NOTES-Notes
@@ -13,5 +12,3 @@ SY_URL-Weburl of salvage yard
 SY_FAA-Intersects FAA UAS ceiling grid
 SY_SCORE-Value of location
 SY_STEP-Where the location is at in the process of flying/processing/blog
-SYB-?
-SY_NC-??
