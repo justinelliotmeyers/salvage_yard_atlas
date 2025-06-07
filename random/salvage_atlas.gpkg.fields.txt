@@ -7,7 +7,7 @@ SY_PC-Picture count
 SY_BLF-Bucket list flight
 SY_NOTES-Notes
 SY_REFLY-Need to refly
-SY_ZONE_ID-Flight zone id
+SY_ZONE_ID-Flight zone id (ICAO CODE THIESSEN)
 SY_URL-Weburl of salvage yard
 SY_FAA-Intersects FAA UAS ceiling grid
 SY_SCORE-Value of location
