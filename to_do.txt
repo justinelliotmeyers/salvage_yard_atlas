@@ -14,14 +14,8 @@ https://salvageyarddrone.wordpress.com/2025/11/01/c-hs-u-pull-it/
 EPA (https://echo.epa.gov/tools/data-downloads#FRS)
 
 census
-
 environmental risk
-
 zipcode
-
 cv car count
-
 aws
-
-
 RENAME DOWNTOWN_AMARILLO
